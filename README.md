@@ -1,2 +1,2 @@
 # Evolutionary-Algorithm-Simulation
-Evolutionary-Algorithm-Simulation
+The goal of this project was to provide a realistic physics simulator that could determine a pre-designed creature's optimal walk cycle (that is, its fastest and most efficient possible combination of limb motions). In order to achieve this, the program iterates through a number of generations inputted by the user, filtering out creatures whose walk cycles yield relatively small net displacements, and finally chooses the most "ideal" creature in the final generation. 
